@@ -1,0 +1,6 @@
+C:\GDrive\devl\ksa\Grades\Grades\bin\Debug\Grades.exe.config
+C:\GDrive\devl\ksa\Grades\Grades\bin\Debug\Grades.exe
+C:\GDrive\devl\ksa\Grades\Grades\bin\Debug\Grades.pdb
+C:\GDrive\devl\ksa\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\GDrive\devl\ksa\Grades\Grades\obj\Debug\Grades.exe
+C:\GDrive\devl\ksa\Grades\Grades\obj\Debug\Grades.pdb

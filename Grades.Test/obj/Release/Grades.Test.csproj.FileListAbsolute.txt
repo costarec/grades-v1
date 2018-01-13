@@ -1,0 +1,9 @@
+C:\GDrive\devl\ksa\Grades\Grades.Test\bin\Release\Grades.Test.dll
+C:\GDrive\devl\ksa\Grades\Grades.Test\bin\Release\Grades.Test.pdb
+C:\GDrive\devl\ksa\Grades\Grades.Test\bin\Release\Grades.exe
+C:\GDrive\devl\ksa\Grades\Grades.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GDrive\devl\ksa\Grades\Grades.Test\bin\Release\Grades.pdb
+C:\GDrive\devl\ksa\Grades\Grades.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\GDrive\devl\ksa\Grades\Grades.Test\obj\Release\Grades.Test.csprojResolveAssemblyReference.cache
+C:\GDrive\devl\ksa\Grades\Grades.Test\obj\Release\Grades.Test.dll
+C:\GDrive\devl\ksa\Grades\Grades.Test\obj\Release\Grades.Test.pdb
